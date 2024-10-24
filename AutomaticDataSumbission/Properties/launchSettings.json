@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AutomaticDataSumbission (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "AutomaticDataSumbission (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
